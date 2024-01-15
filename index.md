@@ -1,5 +1,7 @@
 # English 101B
 ## 1/16
+### Webex Meeting Link
+https://iastate.webex.com/iastate/j.php?MTID=m619fb3d8610fba86a632fb8e8e58a161
 ### Word Cloud Activity
 1. [Describe yourself in three adjectives.](https://www.menti.com/al1v7n21x11d)  
 2. [What are your hobbies?](https://www.menti.com/ald6swmycg76)  
