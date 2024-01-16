@@ -3,7 +3,7 @@
 ### Webex Meeting Link
 [https://iastate.webex.com/iastate/j.php?MTID=m619fb3d8610fba86a632fb8e8e58a161](https://iastate.webex.com/iastate/j.php?MTID=m619fb3d8610fba86a632fb8e8e58a161)
 ### Instructor Introduction
-- Name: Shangyu Jiang  
+- Name: Shangyu Jiang 
 - Major: Applied Linguistics and Technology  
 - Year in program: 3rd  
 ### Student Introduction
