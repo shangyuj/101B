@@ -2,7 +2,7 @@
 ## 1/18
 ### Textbooks
 Ways of acquiring the textbooks:
-1. [University Official](https://canvas.iastate.edu/courses/106509/external_tools/5445)
+1. [University Official Bookstore](https://canvas.iastate.edu/courses/106509/external_tools/5445)
 2. Online sellers
 3. Borrow *Final Draft 3* on [archive.org](https://archive.org/details/finaldraft30000aqui)
 4. Other ways
