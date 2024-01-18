@@ -8,7 +8,8 @@ Ways of acquiring the textbooks:
 4. Other ways
   
 ### Discussion Topic: What do we write for? 
-#### Reflection: How have exams affected our writing?
+#### Reflection
+How have exams affected our writing?
 #### Discussion Prompt
 [Is handwriting on the decline? If so, does it matter? (A Twitter Thread)](https://twitter.com/njenfield/status/1358986320131940354)
 
