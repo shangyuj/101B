@@ -9,9 +9,11 @@ Ways of acquiring the textbooks:
   
 ### Discussion Topic: What do we write for? 
 #### Reflection
-How have exams affected our writing?
+How have exams affected our writing? (continued)
 #### Discussion Prompt
 [Is handwriting on the decline? If so, does it matter? (A Twitter Thread)](https://twitter.com/njenfield/status/1358986320131940354)
+### First-week diagnostic writing
+40 minutes; not graded
 
 ## 1/16
 ### Webex Meeting Link
