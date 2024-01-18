@@ -12,6 +12,8 @@ Ways of acquiring the textbooks:
 How have exams affected our writing? (continued)
 #### Discussion Prompt
 [Is handwriting on the decline? If so, does it matter? (A Twitter Thread)](https://twitter.com/njenfield/status/1358986320131940354)
+### Practice talking about your research
+Grad students and undergrad students are paired together. Grad students explain their research to undergrad students, while undergrad students take notes and prepare to explain to the class what their peers do.
 ### First-week diagnostic writing
 40 minutes; not graded
 
