@@ -10,8 +10,7 @@ Ways of acquiring the textbooks:
 ### Discussion Topic: What do we write for? 
 #### Reflection: How have exams affected our writing?
 #### Discussion Prompt
-1. [Prompt 1: Is handwriting on the decline? If so, does it matter? (A Twitter Thread)](https://twitter.com/njenfield/status/1358986320131940354)
-2. [Prompt 2: Bo Burnham: "Unpaid Intern" Reaction Video (YouTube Video)](https://youtu.be/FZVMB8mrNO0?si=DiOAxmNiE0ds2-ma)
+[Is handwriting on the decline? If so, does it matter? (A Twitter Thread)](https://twitter.com/njenfield/status/1358986320131940354)
 
 ## 1/16
 ### Webex Meeting Link
