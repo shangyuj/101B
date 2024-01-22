@@ -6,7 +6,6 @@ Ways of acquiring the textbooks:
 2. Online sellers
 3. Borrow *Final Draft 3* on [archive.org](https://archive.org/details/finaldraft30000aqui)
 4. Other ways
-  
 ### Discussion Topic: What do we write for? 
 #### Reflection
 How have exams affected our writing? (continued)
