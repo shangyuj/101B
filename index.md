@@ -3,7 +3,9 @@
 ### Intro to Reflection 1: Your Academic Writing So Far (due 1/28)
 - Free and flexible
 - Graded on completion
+  
 ### Intro to Major Assignment 1: Summary-Response Essay (due 2/11)
+   
 #### Overview:
 In the first Major Assignment, you will compose a summary-response essay. This type of essay is a critical academic exercise that allows you to engage deeply with a text, understand its main points and arguments, and respond to its ideas with your own analysis and perspective.
 #### Purpose:
