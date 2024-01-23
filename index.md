@@ -38,14 +38,15 @@ Your essay should be divided into two main sections:
 
 3. **Interactive Analysis with Examples**
    1. **The Impact of Social Media on Mental Health in Teenagers**
-      <details>
-        <summary>Click me for answer</summary>
+<details>
+   <summary>Click me for answer</summary>
 - Relevance: Highly relevant in today's digital age.  
 - Specificity: Focused on a specific age group and issue.  
 - Originality: Potential for unique perspectives, depending on approach.  
 - Scope: Broad enough for diverse viewpoints, yet can be deeply explored.  
 - Personal Interest: Likely to resonate with many students.  
-      </details>
+</details>
+
    2. **Climate Change: Analyzing Policy Responses Globally**
       - Relevance: Extremely topical and urgent.
       - Specificity: Focuses on policy responses rather than the broad topic of climate change.
