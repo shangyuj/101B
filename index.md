@@ -83,6 +83,68 @@ Your essay should be divided into two main sections:
    - Spend a few minutes writing down topics you are passionate about.
    - Volunteers share their topics and discuss why they find them engaging.
 
+3. **Exploration of Renewable Energy Sources in Developing Countries**
+   - **Relevance:** Highly topical in the context of global energy and environmental challenges.
+   - **Specificity:** Focuses specifically on renewable energy in developing countries.
+   - **Originality:** Offers potential for exploring diverse, region-specific solutions.
+   - **Scope:** Broad enough to cover various technologies and countries, yet focused.
+   - **Personal Interest:** Likely to appeal to students interested in environmental science, sustainability, or global development.
+
+4. **Cultural Influence of Social Media on Language Evolution**
+   - **Relevance:** Timely, considering the widespread use of social media.
+   - **Specificity:** Specifically addresses the intersection of social media and language changes.
+   - **Originality:** Provides a unique perspective on language evolution.
+   - **Scope:** Focused enough to explore in-depth, with clear boundaries.
+   - **Personal Interest:** Engaging for students interested in linguistics, cultural studies, or digital media.
+
+5. **Comparison of Health Care Systems: US vs. Canada**
+   - **Relevance:** Pertinent, given ongoing healthcare debates and comparisons.
+   - **Specificity:** Clear and focused comparative approach.
+   - **Originality:** Encourages analysis of differing healthcare models.
+   - **Scope:** Well-defined and manageable for an in-depth study.
+   - **Personal Interest:** Relevant for students in health-related fields or with an interest in public policy.
+
+3. **The History of the World**
+   - **Relevance:** While historically significant, the topic is too expansive.
+   - **Specificity:** Lacks a focused approach, covering an excessively broad time frame.
+   - **Originality:** Difficult to provide a unique viewpoint on such a wide-ranging topic.
+   - **Scope:** Far too broad to be covered effectively in a single piece of writing.
+   - **Personal Interest:** While potentially interesting, the lack of focus diminishes its academic value.
+
+4. **Technology: Good or Bad?**
+   - **Relevance:** Technology is a relevant topic, but the approach is too simplistic.
+   - **Specificity:** Lacks a specific focus or aspect of technology to explore.
+   - **Originality:** The binary framing of 'good or bad' is overly simplistic for an academic discussion.
+   - **Scope:** Needs a more nuanced and focused question to guide the inquiry.
+   - **Personal Interest:** While of general interest, the oversimplified approach limits deeper engagement.
+
+5. **Movies are Fun to Watch**
+   - **Relevance:** Entertainment is relevant, but the statement is too basic.
+   - **Specificity:** Lacks depth and a specific angle for academic exploration.
+   - **Originality:** Too simplistic and subjective for academic writing.
+   - **Scope:** Not suitable for an academic paper, more of a personal opinion.
+   - **Personal Interest:** While many enjoy movies, the topic doesn't lend itself to academic analysis.
+
+3. **Music Through the Ages**
+   - **Relevance:** Music has cultural and historical relevance.
+   - **Specificity:** Too broad; needs focusing on a specific era, genre, or cultural impact.
+   - **Originality:** Has potential if narrowed down to a unique aspect.
+   - **Scope:** Requires a more defined scope to be effectively explored.
+   - **Personal Interest:** High interest but needs a sharper focus for in-depth study.
+
+4. **The Importance of Education**
+   - **Relevance:** Education is a universally relevant topic.
+   - **Specificity:** Currently too general; needs a specific aspect or angle.
+   - **Originality:** Needs a unique approach to stand out.
+   - **Scope:** Broad; should be narrowed down to a particular educational issue or trend.
+   - **Personal Interest:** High interest, especially for students and educators, but requires a more focused inquiry.
+
+5. **Cars and Their Impact**
+   - **Relevance:** Relevant, especially in the context of environmental and urban planning.
+   - **Specificity:** Needs a more specific focus, such as environmental impact, technological advancements, or cultural significance.
+   - **Originality:** Has potential for an original approach if properly focused.
+   - **Scope:** Too broad as it stands; needs narrowing to a manageable aspect.
+   - **Personal Interest:** Likely to interest students in engineering, environmental studies, or urban planning.
 
 ## 1/18
 ### Textbooks
