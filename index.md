@@ -38,85 +38,49 @@ Your essay should be divided into two main sections:
 
 3. **Interactive Analysis with Examples**
    1. **The Impact of Social Media on Mental Health in Teenagers**
-<details>
-   <summary>Click me for answer</summary>
-- Relevance: Highly relevant in today's digital age.  
-- Specificity: Focused on a specific age group and issue.  
-- Originality: Potential for unique perspectives, depending on approach.  
-- Scope: Broad enough for diverse viewpoints, yet can be deeply explored.  
-- Personal Interest: Likely to resonate with many students.  
-</details>
+         <details>
+            <summary>Click me for answer</summary>
+            - Relevance: Highly relevant in today's digital age.  
+            - Specificity: Focused on a specific age group and issue.  
+            - Originality: Potential for unique perspectives, depending on approach.  
+            - Scope: Broad enough for diverse viewpoints, yet can be deeply explored.  
+            - Personal Interest: Likely to resonate with many students.  
+         </details>
 
    2. **Climate Change: Analyzing Policy Responses Globally**
-      - Relevance: Extremely topical and urgent.
-      - Specificity: Focuses on policy responses rather than the broad topic of climate change.
-      - Originality: Offers scope for comparison and analysis of different global approaches.
-      - Scope: Wide-ranging, requiring careful management to avoid being too broad.
-      - Personal Interest: Appeals to students interested in environmental issues and policy.
+         <details>
+            <summary>Click me for answer</summary>
+            - Relevance: Extremely topical and urgent.
+            - Specificity: Focuses on policy responses rather than the broad topic of climate change.
+            - Originality: Offers scope for comparison and analysis of different global approaches.
+            - Scope: Wide-ranging, requiring careful management to avoid being too broad.
+            - Personal Interest: Appeals to students interested in environmental issues and policy.
+         </details>
    
    3. **The Evolution of Artificial Intelligence and Its Future Prospects**
-      - Relevance: Technologically and scientifically significant.
-      - Specificity: Could be refined to a particular aspect of AI.
-      - Originality: Rich in potential for exploring new advancements and predictions.
-      - Scope: Needs to be narrowed to maintain focus.
-      - Personal Interest: Attracts students fascinated by technology and science.
+         <details>
+            <summary>Click me for answer</summary>
+            - Relevance: Technologically and scientifically significant.
+            - Specificity: Could be refined to a particular aspect of AI.
+            - Originality: Rich in potential for exploring new advancements and predictions.
+            - Scope: Needs to be narrowed to maintain focus.
+            - Personal Interest: Attracts students fascinated by technology and science.
+         </details>
    
    4. **Comparative Study of Educational Systems in Eastern and Western Cultures**
-      - Relevance: Pertinent in the context of global education.
-      - Specificity: Clearly compares two cultural approaches.
-      - Originality: Offers scope for cultural insights and unique findings.
-      - Scope: Broad enough for a comprehensive study, yet distinct.
-      - Personal Interest: Engaging for students interested in education and culture.
-   
-   5. **The Role of Literature in Shaping Societal Values**
-      - Relevance: Timeless and culturally significant.
-      - Specificity: Focused on the influence of literature.
-      - Originality: Can be approached from various literary and cultural perspectives.
-      - Scope: Ideal for an in-depth analysis, but requires clear boundaries.
-      - Personal Interest: Appeals to students passionate about literature and sociology.
-   
-   6. **Urban Planning and Its Effect on Community Well-being**
-      - Relevance: Important in the context of growing urbanization.
-      - Specificity: Focuses on urban planning's impact on a specific aspect of life.
-      - Originality: Can be explored through various urban models and theories.
-      - Scope: Sufficiently specific to prevent overgeneralization.
-      - Personal Interest: Relevant for students interested in architecture, urban studies, or sociology.
-   
-   7. **The Psychological Effects of Long-Term Space Travel**
-      - Relevance: Increasingly significant with advancements in space exploration.
-      - Specificity: Concentrates on the psychological aspect.
-      - Originality: Explores a relatively new and developing field.
-      - Scope: Narrow enough for detailed exploration without being too restrictive.
-      - Personal Interest: Captivating for those interested in space, psychology, or future technologies.
+         <details>
+            <summary>Click me for answer</summary>
+            - Relevance: Pertinent in the context of global education.
+            - Specificity: Clearly compares two cultural approaches.
+            - Originality: Offers scope for cultural insights and unique findings.
+            - Scope: Broad enough for a comprehensive study, yet distinct.
+            - Personal Interest: Engaging for students interested in education and culture.
+         </details>
 
-
-4. **Personal Reflection and Sharing (15 minutes)**
-   - Students spend a few minutes writing down topics they are passionate about.
+4. **Personal Reflection and Sharing**
+   - Spend a few minutes writing down topics you are passionate about.
    - Volunteers share their topics and discuss why they find them engaging.
 
-5. **Group Activity: Evaluating Topics (20 minutes)**
-   - Divide the class into small groups.
-   - Each group discusses and evaluates the shared topics based on the presented criteria.
-   - Encourage groups to consider both personal interest and the objective suitability of the topics.
-
-6. **Class Discussion: Merging Passion and Criteria (15 minutes)**
-   - Groups share their evaluated topics with the class.
-   - Facilitate a discussion on how personal passion aligns with the criteria for effective topics.
-
-7. **Individual Writing Exercise (5 minutes)**
-   - Students select one topic they feel strongly about and write a brief paragraph explaining its suitability based on both passion and criteria.
-
-8. **Conclusion and Homework Assignment (5 minutes)**
-   - Summarize the key insights from the day’s activities.
-   - Assign homework: Find an article related to their chosen topic and write a short rationale for their choice, considering both passion and the discussed criteria.
-
-#### Additional Notes:
-- Encourage a balance between personal interest and academic rigor in topic selection.
-- Foster a respectful environment for sharing diverse interests and viewpoints.
-- Provide support and feedback to ensure students understand the criteria for topic selection.
-- Tailor the lesson to cater to both undergraduate and graduate students, ensuring the content is relevant and intellectually stimulating.
-
-This lesson plan is designed to empower university-level ESL students to identify and articulate topics they are passionate about while also equipping them with the skills to critically evaluate the suitability of these topics for academic writing.
 
 ## 1/18
 ### Textbooks
