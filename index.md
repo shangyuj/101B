@@ -8,12 +8,14 @@
    
 #### Overview:
 In the first Major Assignment, you will compose a summary-response essay. This type of essay is a critical academic exercise that allows you to engage deeply with a text, understand its main points and arguments, and respond to its ideas with your own analysis and perspective.
+
 #### Purpose:
 A summary-response essay serves several key academic purposes:
 1. **Comprehension and Synthesis:** It tests your ability to understand and articulate the main ideas of a text. Summarizing requires you to distill complex ideas into concise, clear statements.
 2. **Critical Thinking and Analysis:** This essay type challenges you to not only understand an author's viewpoint but also to analyze its strengths and weaknesses, and to respond with your own thoughts or critiques.
 3. **Engagement with Texts:** It encourages active engagement with a text, moving beyond passive reading to active discussion.
 4. **Development of Academic Voice:** Through your response, you can develop and express your own academic voice, backed by logical reasoning and evidence.
+
 #### Structure:
 Your essay should be divided into two main sections:
 1. **Summary (Approximately one-third of the essay):**
@@ -23,14 +25,15 @@ Your essay should be divided into two main sections:
    - Provide your analysis, critique, or reflection on the text's ideas.
    - You may agree, disagree, or both, but your response should be backed by evidence and reasoning.
    - Your response should engage with specific points from the summary, expanding on, contesting, or offering a new perspective on them.
+
 #### Requirements:
 - **Length:** The essay should be at least 400 words.
 - **Text Selection:** Choose a text that is interesting to you. It should be substantial enough to provide material for both summary and response.
 - **Originality:** Your response should reflect your own ideas and perspectives. Avoid plagiarism at all costs.
+
 ### Week 2: Your Interests and Criteria in Topic Selection
 1. **Interactive Discussion: "What Moves You?"**
    - What are you passionate about and why?
-
 2. **Criteria for a Good Topic**
    - **Relevance:** Discuss how topics should be pertinent to current discussions, debates, or research in the field.
    - **Specificity:** Emphasize the importance of narrowing down a topic to make it more manageable and focused.
@@ -82,6 +85,8 @@ Your essay should be divided into two main sections:
 4. **Personal Reflection and Sharing**
    - Spend a few minutes writing down topics you are passionate about.
    - Volunteers share their topics and discuss why they find them engaging.
+
+### Evaluate these examples
 
 3. **Exploration of Renewable Energy Sources in Developing Countries**
    - **Relevance:** Highly topical in the context of global energy and environmental challenges.
