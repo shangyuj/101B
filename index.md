@@ -43,45 +43,29 @@ Your essay should be divided into two main sections:
 
 3. **Interactive Analysis with Examples**
    1. **The Impact of Social Media on Mental Health in Teenagers**
-         <details>
-            <summary>Click me for answer</summary>
             - Relevance: Highly relevant in today's digital age.  
             - Specificity: Focused on a specific age group and issue.  
             - Originality: Potential for unique perspectives, depending on approach.  
             - Scope: Broad enough for diverse viewpoints, yet can be deeply explored.  
             - Personal Interest: Likely to resonate with many students.  
-         </details>
-
    2. **Climate Change: Analyzing Policy Responses Globally**
-         <details>
-            <summary>Click me for answer</summary>
             - Relevance: Extremely topical and urgent.
             - Specificity: Focuses on policy responses rather than the broad topic of climate change.
             - Originality: Offers scope for comparison and analysis of different global approaches.
             - Scope: Wide-ranging, requiring careful management to avoid being too broad.
             - Personal Interest: Appeals to students interested in environmental issues and policy.
-         </details>
-   
    3. **The Evolution of Artificial Intelligence and Its Future Prospects**
-         <details>
-            <summary>Click me for answer</summary>
             - Relevance: Technologically and scientifically significant.
             - Specificity: Could be refined to a particular aspect of AI.
             - Originality: Rich in potential for exploring new advancements and predictions.
             - Scope: Needs to be narrowed to maintain focus.
             - Personal Interest: Attracts students fascinated by technology and science.
-         </details>
-   
    4. **Comparative Study of Educational Systems in Eastern and Western Cultures**
-         <details>
-            <summary>Click me for answer</summary>
             - Relevance: Pertinent in the context of global education.
             - Specificity: Clearly compares two cultural approaches.
             - Originality: Offers scope for cultural insights and unique findings.
             - Scope: Broad enough for a comprehensive study, yet distinct.
             - Personal Interest: Engaging for students interested in education and culture.
-         </details>
-
 4. **Personal Reflection and Sharing**
    - Spend a few minutes writing down topics you are passionate about.
    - Volunteers share their topics and discuss why they find them engaging.
