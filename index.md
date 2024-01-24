@@ -1,4 +1,16 @@
 # English 101B
+## 1/25
+### Evaluating the Credibility of Sources
+#### 1. Compare the following two sources. Which do you think is a more reliable source? Why?
+**American Academy of Pediatrics** [(Link)](https://www.aap.org/) vs. **American College of Pediatricians** [(Link)](https://acpeds.org/)  
+- Compare their names, the design of their websites, the content on their websites.  
+- Do a search of them. Compare the results of the searches.  
+#### 2. In groups, find at least **two sources** that you could use for a paper on the following topic:  
+- The effects of veganism on the environment  
+1. Two minutes to find sources.  
+2. Three minutes to discuss and evaluate the sources as a group. (Don't forget to do external searches.)  
+3. Report to the class your evaluation of the sources: How did you evaluate them? Are they reliable? Why?  
+
 ## 1/23
 ### Intro to Reflection 1: Your Academic Writing So Far (due 1/28)
 - Free and flexible
