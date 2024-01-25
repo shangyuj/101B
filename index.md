@@ -1,15 +1,45 @@
 # English 101B
+
 ## 1/25
+
 ### Evaluating the Credibility of Sources
+
 #### 1. Compare the following two sources. Which do you think is a more reliable source? Why?
 **American Academy of Pediatrics** [(Link)](https://www.aap.org/) vs. **American College of Pediatricians** [(Link)](https://acpeds.org/)  
 - Compare their names, the design of their websites, the content on their websites.  
-- Do a search of them. Compare the results of the searches.  
+- Do a search of them. Compare the results of the searches.
+
 #### 2. In groups, find at least **two sources** that you could use for a paper on the following topic:  
 - The effects of veganism on the environment  
 1. Two minutes to find sources.  
 2. Three minutes to discuss and evaluate the sources as a group. (Don't forget to do external searches.)  
-3. Report to the class your evaluation of the sources: How did you evaluate them? Are they reliable? Why?  
+3. Report to the class your evaluation of the sources: How did you evaluate them? Are they reliable? Why?
+
+### Selecting and Evaluating Articles for Summary-Response Essay
+
+#### 1. Understanding the Criteria
+- Your chosen article should be:
+  - **Engaging:** It should capture your interest.
+  - **Thought-Provoking:** It should present ideas or *arguments* that stimulate your thinking.
+  - **Clear:** The main points and arguments should be understandable.
+  - **Appropriate Length:** It should be long enough to provide substantial content for summarizing and responding, but not overly lengthy.
+
+#### 2. Brief Recap of Your Interests
+- Form small groups and briefly discuss your interests. Think about topics that you find compelling – these can range from technology and culture to sports and entertainment. This is your chance to explore an area you're genuinely curious about.
+
+#### 3. Research Phase
+- Using either a computer or tablet, search for articles that align with your interests. You can use a variety of sources, including online magazines, newspapers, blogs, or academic journals.
+- As you search, skim through the articles to see if they meet the criteria and spark your interest. Aim to find at least 2-3 potential articles.
+
+#### 4. Evaluation Worksheet
+- Once you have your articles, use the provided worksheet to evaluate them. This worksheet will ask you questions about each article's relevance to your interests, the clarity of its main points, and its potential for a rich response.
+
+#### 5. Group Discussion (10 minutes)
+- Reconvene with your group and discuss your selected articles. Share your thoughts and get feedback. Sometimes, a good discussion can help clarify which article is the best choice for you.
+
+#### 6. Final Selection (5 minutes)
+- After the group discussion, make your final decision on which article you'll use for the essay.
+- Write a short paragraph explaining why you chose this article. Consider aspects like how the topic interests you, what you find thought-provoking about it, and how you might respond to it in your essay.
 
 ## 1/23
 ### Intro to Reflection 1: Your Academic Writing So Far (due 1/28)
