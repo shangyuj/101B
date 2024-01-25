@@ -34,10 +34,10 @@
 #### 4. Evaluation Worksheet
 - Once you have your articles, use the provided worksheet to evaluate them. This worksheet will ask you questions about each article's relevance to your interests, the clarity of its main points, and its potential for a rich response.
 
-#### 5. Group Discussion (10 minutes)
+#### 5. Group Discussion
 - Reconvene with your group and discuss your selected articles. Share your thoughts and get feedback. Sometimes, a good discussion can help clarify which article is the best choice for you.
 
-#### 6. Final Selection (5 minutes)
+#### 6. Final Selection
 - After the group discussion, make your final decision on which article you'll use for the essay.
 - Write a short paragraph explaining why you chose this article. Consider aspects like how the topic interests you, what you find thought-provoking about it, and how you might respond to it in your essay.
 
