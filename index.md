@@ -32,7 +32,7 @@
 - As you search, skim through the articles to see if they meet the criteria and spark your interest. Aim to find at least 2-3 potential articles.
 
 #### 4. Evaluation Worksheet
-- Once you have your articles, use the provided worksheet to evaluate them. This worksheet will ask you questions about each article's relevance to your interests, the clarity of its main points, and its potential for a rich response.
+- Once you have your articles, use the [provided worksheet](https://canvas.iastate.edu/courses/106509/discussion_topics/1544646) to evaluate them. This worksheet will ask you questions about each article's relevance to your interests, the clarity of its main points, and its potential for a rich response.
 
 #### 5. Group Discussion
 - Reconvene with your group and discuss your selected articles. Share your thoughts and get feedback. Sometimes, a good discussion can help clarify which article is the best choice for you.
