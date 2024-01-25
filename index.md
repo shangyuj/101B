@@ -39,7 +39,7 @@
 
 #### 6. Final Selection
 - After the group discussion, make your final decision on which article you'll use for the essay.
-- Write a short paragraph explaining why you chose this article. Consider aspects like how the topic interests you, what you find thought-provoking about it, and how you might respond to it in your essay.
+- Fill out the [provided worksheet](https://canvas.iastate.edu/courses/106509/discussion_topics/1544646) with the article of your choice and post your worksheet as a reply on Canvas.
 
 ## 1/23
 ### Intro to Reflection 1: Your Academic Writing So Far (due 1/28)
