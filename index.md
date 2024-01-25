@@ -25,7 +25,7 @@
   - **Appropriate Length:** It should be long enough to provide substantial content for summarizing and responding, but not overly lengthy.
 
 #### 2. Brief Recap of Your Interests
-- Form small groups and briefly discuss your interests. Think about topics that you find compelling – these can range from technology and culture to sports and entertainment. This is your chance to explore an area you're genuinely curious about.
+- Form small groups and briefly discuss your interests. Think about topics that you find compelling—these can range from technology and culture to sports and entertainment. This is your chance to explore an area you're genuinely curious about.
 
 #### 3. Research Phase
 - Using either a computer or tablet, search for articles that align with your interests. You can use a variety of sources, including online magazines, newspapers, blogs, or academic journals.
