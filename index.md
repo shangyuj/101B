@@ -1,5 +1,80 @@
 # English 101B
 
+## 1/30
+### How to Cite Properly (MLA)
+#### Example
+**Original text:**  
+"Feral cats roamed far more widely than researchers had expected: up to 1,351 acres. In contrast, pet cats stayed within an average of about five acres of home."  
+  
+**Author:** Madhumita Venkataramanan  
+**Title of article:** "Where House Cats Roam"  
+**Title of journal:** *Scientific American*  
+**Year of publication:** 2011  
+**Page number:** 30  
+
+#### Citing as a Direct Quote
+*In her article “Where House Cats Roam”, Madhumita Venkataramanan references a study that found that “pet cats stayed within an average of about five acres of home” (30).*  
+
+#### Citing as a Paraphrase
+*When pet cats go outdoors, they stay relatively close to home, whereas their feral counterparts sometimes roam over a thousand acres (Venkatraman 30).*  
+ - (in APA the page number would be the publication year)
+
+### Using Signal Phrases
+**Definition:** Signal phrases are short phrases that introduce a quote, paraphrase, or summary; they signal to readers that an outside source is being used.  
+
+#### Function of signal phrases: Avoid plagiarism and ambiguity
+
+**Example**  
+"In the personal realm, most Americans are thoughtful, caring, generous. We try to do our best by family and friends. At times we'll even stop to help another driver stranded with a roadside breakdown, or give some spare change to a stranger. [...] We've all but forgotten that public participation is the very soul of democratic citizenship, and how much it can enrich our lives." (excerpt from *Soul of a Citizen* by Paul Loeb)
+
+**Paraphrase draft #1:**  
+"Most Americans are generous and kind on an individual, interpersonal level but few recognize how important civic, social, and public engagement is to our democracy. We tend to isolate ourselves from others and focus on our private lives instead of the public good. We don't realize that helping others helps ourselves."  
+ - What is the problem?  
+
+**Paraphrase draft #2:**  
+"According to Paul Loeb, most Americans are generous and kind on an individual, interpersonal level but few recognize how important civic, social, and public engagement is to our democracy. We tend to isolate ourselves from others and focus on our private lives instead of the public good. Paul Loeb thinks that we don't realize that helping others helps ourselves."  
+ - Any problems still? (think in-text citation)  
+
+**Paraphrase draft #3:**  
+"According to Paul Loeb, most Americans are generous and kind on an individual, interpersonal level but few recognize how important civic, social, and public engagement is to our democracy; we tend to isolate ourselves from others and focus on our private lives instead of the public good (2). Although Loeb doesn't say so explicitly, he suggests that we fail to realize that helping others helps ourselves."  
+ - Any problems still? (No it's perfect!!)  
+
+#### Function of signal phrases: Establish credibility of the source authors
+
+**Example:**  
+"In Soul of a Citizen, **journalist and lecturer Paul Loeb** observes that most Americans are generous and kind on an individual, interpersonal level but that few recognize how important civic, social, and public engagement is to our democracy (2)."
+
+#### Function of signal phrases: Capture the authors’ viewpoint
+
+**Examples:**  
+"In Soul of a Citizen, journalist and lecturer Paul Loeb **observes** that most Americans are generous and kind on an individual, interpersonal level but that few recognize how important civic, social, and public engagement is to our democracy (2)."  
+ - accuracy
+  
+"In *Job Shift*, consultant William Bridges **worries about** “dejobbing and about what a future shaped by it is going to be like.” Even more worrisome, Bridges **argues**, is the possibility that “the sense of craft and of professional vocation . . . will break down under the need to earn a fee” (228)."  
+ - a sense of urgency   
+  
+"In *Job Shift*, William Bridges **unreasonably contends / fantasizes** that “the sense of craft and of professional vocation . . . will break down under the need to earn a fee” (228)."  
+ - we don't agree with the author  
+
+#### Some Frequently Used Signal Verbs
+
+<pre>
+acknowledges   claims         emphasizes     remarks  
+admits         concludes      expresses      replies  
+advises        concurs        hypothesizes   reports  
+agrees         confirms       interprets     responds  
+allows         criticizes     lists          reveals  
+argues         declares       objects        states  
+asserts        disagrees      observes       suggests  
+believes       discusses      offers         thinks  
+charges        disputes       opposes        writes  
+</pre>
+
+**Question:** Which signal verbs do you think are positive, negative, or neutral? 
+
+### Preparing for Your Summary-Response Essay
+Read your chosen article and write a short summary (draft) of it. Go to [Canvas](https://canvas.iastate.edu/courses/106509/discussion_topics/1547191/). 
+
 ## 1/25
 
 ### Evaluating the Credibility of Sources
