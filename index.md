@@ -14,7 +14,7 @@ Today's class is dedicated to developing the response portion of your summary-re
 
 2. **Group Discussion: Sharing Insights**
    - Form small groups and share the argument you chose during the warm-up. Discuss your initial thoughts on agreeing or disagreeing with the author's viewpoint.
-
+  
 3. **Introduction to Response Strategies**
 
 >##### Strategy 1: Agreeing with a Twist
@@ -39,7 +39,7 @@ Today's class is dedicated to developing the response portion of your summary-re
 >3. **Stay Objective:** While personal opinions are valuable, ensure your response is grounded in logical reasoning and evidence.
 >4. **Employ Signal Verbs:** Use verbs that accurately reflect the author’s stance (e.g., argues, claims, suggests) and verbs that articulate your response (e.g., contend, oppose, affirm).
 >5. **Maintain Clarity:** Be clear and concise in your writing. Ensure your reader understands the article's points you're responding to and your stance on them.
-
+  
 4. **Activity: Strategy Application**
    - In your groups, select one strategy from the handout to focus on. Using this strategy, brainstorm potential responses to the argument discussed earlier. Consider how different perspectives or new evidence could enrich your response.
 
