@@ -16,7 +16,6 @@ Today's class is dedicated to developing the response portion of your summary-re
    - Form small groups and share the argument you chose during the warm-up. Discuss your initial thoughts on agreeing or disagreeing with the author's viewpoint.
 
 3. **Introduction to Response Strategies**
-   - Brief overview of the "Effective Response Strategies" handout. Highlight how these strategies can be used to construct a nuanced and insightful response.
 
 >##### Strategy 1: Agreeing with a Twist
 >- **Description:** You agree with the article’s points but introduce a new angle or insight that wasn't covered.
