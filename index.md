@@ -1,5 +1,61 @@
 # English 101B
 
+## 2/1
+
+### Crafting Your Response with Insight and Originality
+
+#### Objective:
+Today's class is dedicated to developing the response portion of your summary-response essay. Through the activities and discussions, you'll refine your ability to articulate a compelling, evidence-backed viewpoint on your chosen article.
+
+#### Agenda:
+
+1. **Warm-Up: Quick Reflection**
+   - Write down one key argument from your article that you strongly agree or disagree with. Think about why this argument stood out to you.
+
+2. **Group Discussion: Sharing Insights**
+   - Form small groups and share the argument you chose during the warm-up. Discuss your initial thoughts on agreeing or disagreeing with the author's viewpoint.
+
+3. **Introduction to Response Strategies**
+   - Brief overview of the "Effective Response Strategies" handout. Highlight how these strategies can be used to construct a nuanced and insightful response.
+
+##### Strategy 1: Agreeing with a Twist
+- **Description:** You agree with the article’s points but introduce a new angle or insight that wasn't covered.
+- **Approach:** Start by acknowledging the points you agree with, then introduce your unique perspective or additional evidence that builds on the original argument.
+
+##### Strategy 2: Disagreeing with Reasons
+- **Description:** You challenge the article’s arguments, offering evidence or reasoning to support your disagreement.
+- **Approach:** Clearly state which points you disagree with and why. Use evidence from the article, other sources, or personal experience to back up your counter-argument.
+
+##### Strategy 3: Reflecting on Personal Experience
+- **Description:** You connect the article’s themes or arguments to your own experiences, adding depth and personal insight.
+- **Approach:** Share a personal story or reflection that relates to the article. Explain how your experience supports, contradicts, or sheds new light on the article's points.
+
+##### Strategy 4: Analyzing the Implications
+- **Description:** You explore the broader implications or consequences of the article’s arguments.
+- **Approach:** Discuss the potential impact of the article’s ideas on society, a particular group, or the future. Consider both positive and negative outcomes.
+
+##### Tips for Writing Your Response:
+1. **Be Specific:** Focus on particular points or arguments from the article. Avoid generalizations.
+2. **Use Evidence:** Support your response with evidence, whether from the article, external sources, or personal experience.
+3. **Stay Objective:** While personal opinions are valuable, ensure your response is grounded in logical reasoning and evidence.
+4. **Employ Signal Verbs:** Use verbs that accurately reflect the author’s stance (e.g., argues, claims, suggests) and verbs that articulate your response (e.g., contend, oppose, affirm).
+5. **Maintain Clarity:** Be clear and concise in your writing. Ensure your reader understands the article's points you're responding to and your stance on them.
+
+4. **Activity: Strategy Application**
+   - In your groups, select one strategy from the handout to focus on. Using this strategy, brainstorm potential responses to the argument discussed earlier. Consider how different perspectives or new evidence could enrich your response.
+
+5. **Debate: Exploring Multiple Sides**
+   - Each group presents their response ideas to the class, initiating a mini-debate. Encourage respectful challenge and support for the ideas presented, exploring the argument from multiple angles.
+
+#### Homework:
+- Finalize the response portion of your summary-response essay. Remember to:
+  - Use one of the response strategies effectively.
+  - Support your viewpoints with clear evidence or reasoning.
+  - Revise your draft based on feedback and insights from today's session.
+
+#### Remember:
+This essay is not just an assignment; it's an opportunity to engage deeply with ideas, challenge your own perspectives, and articulate your thoughts with clarity and originality. Let's make the most of this learning journey together!
+
 ## 1/30
 ### How to Cite Properly (MLA)
 #### Example
