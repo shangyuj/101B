@@ -47,14 +47,6 @@ Today's class is dedicated to developing the response portion of your summary-re
 5. **Debate: Exploring Multiple Sides**
    - Each group presents their response ideas to the class, initiating a mini-debate. Encourage respectful challenge and support for the ideas presented, exploring the argument from multiple angles.
 
-#### Homework:
-- Finalize the response portion of your summary-response essay. Remember to:
-  - Use one of the response strategies effectively.
-  - Support your viewpoints with clear evidence or reasoning.
-  - Revise your draft based on feedback and insights from today's session.
-
-#### Remember:
-This essay is not just an assignment; it's an opportunity to engage deeply with ideas, challenge your own perspectives, and articulate your thoughts with clarity and originality. Let's make the most of this learning journey together!
 
 ## 1/30
 ### How to Cite Properly (MLA)
