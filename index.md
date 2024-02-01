@@ -2,7 +2,7 @@
 
 ## 2/1
 
-### Crafting Your Response with Insight and Originality
+### Crafting Your Response
 
 #### Objective:
 Today's class is dedicated to developing the response portion of your summary-response essay. Through the activities and discussions, you'll refine your ability to articulate a compelling, evidence-backed viewpoint on your chosen article.
