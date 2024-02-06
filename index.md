@@ -1,5 +1,8 @@
 # English 101B
 
+## 2/6
+Writing Day
+
 ## 2/1
 
 ### Crafting Your Response
