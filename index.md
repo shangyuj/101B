@@ -1,5 +1,13 @@
 # English 101B
 
+## 2/8
+
+### Peer Review
+Check in here: [link](https://docs.google.com/spreadsheets/d/1Gn4a7J1JlRdL_D6zThRaVeJYYxyOx8krE6IZnhLGxGM/edit?usp=sharing)  
+Find your drafts here: [link](https://canvas.iastate.edu/courses/106509/assignments/2167913)  
+Peer review guidelines: [link](https://canvas.iastate.edu/courses/106509/assignments/2167920)  
+Where to submit your final draft: [link](https://canvas.iastate.edu/courses/106509/assignments/2167919)  
+
 ## 2/6
 Writing Day
 
