@@ -1,5 +1,58 @@
 # English 101B
 
+## 2/13
+
+### Intro to 2nd Essay: Compare and Contrast
+A comparison and contrast essay examines two or more subjects by comparing their similarities and contrasting their differences. This type of essay typically structures information either by subject (discussing all aspects of one subject before moving to the next) or by point (alternating between subjects for each point of comparison or contrast). Its purpose is to analyze the subjects in relation to each other to highlight how they are alike or distinct, often to make a larger point about the subjects' characteristics or implications.  
+
+### Compare and Contrast Discussion
+#### Discussion topic: "Talent" in different cultures
+1. **Nature of Talent**: How do your culture's beliefs about whether talent is innate or developed compare with what you've observed or heard about other cultures? 
+2. **Importance of Talent vs. Effort**: In your home country, which is more valued in professions like arts, academics, or sports: natural talent or hard work? How does this stand in contrast to other countries or cultures you're aware of?
+3. **Recognition and Rewards**: Compare the ways societies reward natural talent versus perseverance. Is there a difference between your home culture and others in terms of which is rewarded more?
+4. **Education and Talent**: In the education system you grew up in, how are "talented" students treated compared to those in other countries or cultures you're familiar with? Are there unique programs or systems in place?
+5. **Pressure and Expectations**: Compare the pressures of being labeled as "talented" in your home country to what you perceive those pressures to be in other cultures or countries.
+6. **Overlooked Abilities**: Are there certain skills or abilities that are more valued in your culture compared to others? Conversely, are there talents that you feel are undervalued in your culture but celebrated elsewhere?
+7. **Role of Opportunity**: How do opportunities and resources available for nurturing talent in your home country compare to another country or culture you're familiar with?
+8. **Cultural Narratives**: Think of cultural heroes from your country celebrated for their talents. How do their stories of innate ability or perseverance compare with similar figures from another culture?
+9. **Talent in the Workplace**: Compare how employers in your country prioritize talent versus experience or qualifications with what you know of practices in other countries.
+10. **Talent in Changing Times**: How do you think the importance placed on certain talents in your home country compares to another when considering technological and societal changes?
+
+#### Reflection
+Notice what Compare and Contrast language you and your peers used? Did you use any of the following?
+- For Comparison
+ - Similarly
+ - Likewise
+ - Equally
+ - As well
+ - Both
+ - Also
+ - Correspondingly
+ - In the same manner
+ - Analogously
+ - Not to mention
+ - In addition to
+ - Furthermore
+ - In common with
+ - Just as
+ - Of the same kind
+- For Contrast
+ - However
+ - Conversely
+ - On the other hand
+ - Nonetheless
+ - Whereas
+ - Nevertheless
+ - Unlike
+ - Alternatively
+ - Although
+ - Even though
+ - Yet
+ - On the contrary
+ - In contrast
+ - Rather
+ - In spite of
+
 ## 2/8
 
 ### Peer Review
