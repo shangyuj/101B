@@ -53,6 +53,9 @@ Notice what Compare and Contrast language you and your peers used? Did you use a
   - Rather
   - In spite of
 
+### Practice Paraphrasing
+[Link to Canvas](https://canvas.iastate.edu/courses/106509/assignments/2167916)
+
 ## 2/8
 
 ### Peer Review
