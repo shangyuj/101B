@@ -21,37 +21,37 @@ A comparison and contrast essay examines two or more subjects by comparing their
 #### Reflection
 Notice what Compare and Contrast language you and your peers used? Did you use any of the following?
 - For Comparison
- - Similarly
- - Likewise
- - Equally
- - As well
- - Both
- - Also
- - Correspondingly
- - In the same manner
- - Analogously
- - Not to mention
- - In addition to
- - Furthermore
- - In common with
- - Just as
- - Of the same kind
+  - Similarly
+  - Likewise
+  - Equally
+  - As well
+  - Both
+  - Also
+  - Correspondingly
+  - In the same manner
+  - Analogously
+  - Not to mention
+  - In addition to
+  - Furthermore
+  - In common with
+  - Just as
+  - Of the same kind
 - For Contrast
- - However
- - Conversely
- - On the other hand
- - Nonetheless
- - Whereas
- - Nevertheless
- - Unlike
- - Alternatively
- - Although
- - Even though
- - Yet
- - On the contrary
- - In contrast
- - Rather
- - In spite of
+  - However
+  - Conversely
+  - On the other hand
+  - Nonetheless
+  - Whereas
+  - Nevertheless
+  - Unlike
+  - Alternatively
+  - Although
+  - Even though
+  - Yet
+  - On the contrary
+  - In contrast
+  - Rather
+  - In spite of
 
 ## 2/8
 
