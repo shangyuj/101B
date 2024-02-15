@@ -1,5 +1,36 @@
 # English 101B
 
+## 2/15
+
+### Today's Activity: A Comparison and Contrast Debate!
+An essay written by American columnist and reporter Michael Hiltzik published in *LA Times* in 2016 argued against the idea that video is a superior form of media consumption compared to text:  
+- [Don’t believe Facebook: The demise of the written word is very far off](https://www.latimes.com/business/hiltzik/la-fi-hiltzik-written-word-demise-20160617-snap-story.html)
+  
+Unsurprisingly, this topic is still very, if not more, relevant today.  
+  
+#### Debate Activity: "The Future of Communication: Text vs. Video"
+Will the written word remain a dominant form of communication, or will video take over?
+  
+##### Objective:
+You will engage in a structured debate to explore and articulate complex arguments regarding the future dominance of text or video in communication, as discussed in Michael Hiltzik's article.
+  
+##### Activity Breakdown:
+  
+**1. Preparation**
+- **Reading:** Take 10 minute to read Michael Hiltzik's article and get familiar with the context.
+- **Divide the Class:** The class will split into two groups. One group will argue for the continued dominance of the written word, and the other will argue for the increasing dominance of video.
+- **Preparation Time:** Each group will have 10 minutes to prepare their arguments. You are encouraged to use specific points from the article and to think about counterarguments to the opposing side's potential points.
+  
+**2. Opening Statements**
+- Each group presents their opening statement, summarizing their position. Each group will have 2 minutes.
+  
+**3. Argument Rounds**
+- **Round 1:** Each group takes turns presenting their main arguments. Each speaker have no more than 2 minutes. When one group speaks, the other group should take notes and think about how to counter-argue.
+- **Round 2:** Rebuttal round. Groups respond to the arguments made by the opposing side. You are encouraged to address specific points and to use evidence from the article and external sources.
+  
+**4. Closing Statements**
+- Each group has 2 minutes to make their final case, summarizing their key points and rebuttals.
+
 ## 2/13
 
 ### Intro to 2nd Essay: Compare and Contrast
