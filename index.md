@@ -1,5 +1,21 @@
 # English 101B
 
+## 2/20
+### Comparison and contrast: Advanced level!
+#### Compare and constrast two genres of writing
+The following are two articles presenting the same study on smartphone addiction. The first article is published on the *Daily Mail UK*, a British tabloid. The second article is published in *Computers in Human Behavior*, an academic journal.
+- Article on *Daily Mail*: [The countries with the highest rates of SMARTPHONE ADDICTION revealed - with China, Saudi Arabia and Malaysia topping the list](https://www.dailymail.co.uk/sciencetech/article-10498963/The-countries-highest-rates-SMARTPHONE-ADDICTION-revealed.html) *(The website will ask you for notification permission. Do not click "allow" if you don't intend to.)*  
+- Article on *Computers in Human Behavior*: [Smartphone addiction is increasing across the world: A meta-analysis of 24 countries](https://www.sciencedirect.com/science/article/pii/S0747563221004611)
+  
+##### Activity 1: Audience Perspective Role Play
+- Step 1: Get into pairs. Student A will read the tabloid article and Student B will read the academic journal article.
+- Step 2: You will summarize to each other your takeaways from the article you read. Compare your takeaways.
+  
+##### Activity 2: Analyze the Articles
+- Step 1: In your same group, this time, Student B will read the tabloid article and Student A will read the academic journal article.
+- Step 2: Now that you've all read both articles, discuss why you think you had different takeaways from these two articles (how different presentations can lead to varied understandings).
+- Step 3: Suppose you are writing an essay and conpare and constrast these two articles, what would your thesis statement be? In your same group, come up with a thesis statement together.
+
 ## 2/15
 
 ### Today's Activity: A Comparison and Contrast Debate!
