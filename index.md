@@ -1,5 +1,4 @@
 # English 101B
-[secret check-in](https://docs.google.com/spreadsheets/d/1F4Jo0UzzPoKFfMn0743ua_iV8s9Gu9GMed2oLLdoLrE/edit?usp=sharing)
 ## 2/20
 ### Comparison and contrast: Advanced level!
 #### Compare and constrast two genres of writing
