@@ -1,9 +1,9 @@
 # English 101B
 
 ## Help with my colleague's study!
-[Invitation](https://github.com/shangyuj/101B/blob/main/Invitation%20.pdf)
-[Consent form](https://github.com/shangyuj/101B/blob/main/Consent_students%20_email.pdf)
-[Google Sheet sign-up](https://docs.google.com/spreadsheets/d/15lljj3WnNG7-4LdxjRONMme09h-e_Jmfwo0EwdQLWIg/edit?usp=sharing)
+[Invitation](https://github.com/shangyuj/101B/blob/main/Invitation%20.pdf)  
+[Consent form](https://github.com/shangyuj/101B/blob/main/Consent_students%20_email.pdf)  
+[Google Sheet sign-up](https://docs.google.com/spreadsheets/d/15lljj3WnNG7-4LdxjRONMme09h-e_Jmfwo0EwdQLWIg/edit?usp=sharing)  
 
 ## 2/27
 
