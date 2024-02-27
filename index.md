@@ -34,7 +34,7 @@ If you're comparing two different forms of government: Democracy and Monarchy:
 | **Disadvantages**   | Can lead to gridlock and inefficiency; risk of majority rule suppressing minority rights. | Risk of autocratic rule; less accountability and potential for abuse of power. |
 | **Examples**        | United States, India, Germany | United Kingdom (constitutional monarchy), Saudi Arabia (absolute monarchy) |
 
-### Step 4: Identify Points of Comparison
+#### Step 4: Identify Points of Comparison
 After filling out the table, look for patterns, trends, or interesting contrasts in the information you've collected. These will form the basis of your comparison points in the essay.
 
 ## 2/20
