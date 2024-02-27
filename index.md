@@ -37,6 +37,38 @@ If you're comparing two different forms of government: Democracy and Monarchy:
 #### Step 4: Identify Points of Comparison
 After filling out the table, look for patterns, trends, or interesting contrasts in the information you've collected. These will form the basis of your comparison points in the essay.
 
+### Structure of Comparison & Contrast Essay: Block Organization or Point-by-Point Organization
+
+#### Block Organization (Subject-by-Subject)
+In this structure, you discuss all the relevant points for one subject first, then move on to the second subject. This approach works well when comparing two subjects that are distinctly different or when you want your reader to understand one subject completely before introducing the second.
+
+**Format:**
+1. Introduction
+2. All points related to Subject A
+3. Transition paragraph (optional)
+4. All points related to Subject B
+5. Conclusion
+
+#### Point-by-Point Organization (Feature-by-Feature)
+This structure involves discussing a point of comparison or contrast between your subjects in each paragraph. It allows for a more integrated comparison and is effective when you want to emphasize the relationships between the points being compared across the subjects.
+
+**Format:**
+1. Introduction
+2. Point 1: Comparison/Contrast of Subject A and B
+3. Point 2: Comparison/Contrast of Subject A and B
+4. Additional points
+5. Conclusion
+
+#### Deciding Which Structure to Use
+
+##### Consider Your Subjects
+- **Similarity:** If your subjects are very similar, Point-by-Point allows you to highlight subtle differences more effectively.
+- **Complexity:** For subjects that are complex and require detailed explanation, Block Organization might be better to avoid confusing your reader.
+
+##### Think About Your Points of Comparison
+- **Number of Points:** If you have many small points of comparison, Point-by-Point can keep your essay organized and focused. If you have fewer, broader points, Block Organization might work better.
+- **Relationships Between Points:** If the points of comparison are closely related or influence each other, Point-by-Point helps illustrate these relationships. If they're more independent, Block might be simpler.
+
 ## 2/20
 ### Comparison and contrast: Advanced level!
 #### Compare and constrast two genres of writing
