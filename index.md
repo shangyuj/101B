@@ -1,4 +1,42 @@
 # English 101B
+
+## 2/27
+
+### Using cross tabulation to brainstorm points of comparison
+
+#### Step 1: Choose Your Comparison Categories
+Start by identifying the categories you want to compare and contrast between your two subjects. These categories will depend on the nature of your subjects. For example, if you're comparing two novels, categories might include themes, characters, plot, and setting.
+
+#### Step 2: Create a Cross Tabulation Table
+Draw a table with two columns and several rows. At the top of each column, write the name of one of the subjects you are comparing. Then, along the left side of the table, list your comparison categories in the rows.
+
+#### Step 3: Fill in the Table
+Now, for each category (row), fill in the corresponding cells with key points, ideas, or features from each subject. This step helps you systematically break down the similarities and differences between the subjects based on each category.
+
+#### Example:
+If you're comparing two historical figures, your table might look like this:
+
+| **Category** | **Person 1** | **Person 2** |
+|--------------|--------------|--------------|
+| Early Life   | - Born in... | - Born in... |
+| Achievements | - Won Nobel Prize | - Discovered... |
+| Challenges   | - Faced opposition... | - Struggled with... |
+| Legacy       | - Remembered for... | - Known for... |
+
+If you're comparing two different forms of government: Democracy and Monarchy:
+
+| **Category**        | **Democracy**                                                  | **Monarchy**                                                   |
+|---------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| **Definition**      | A system of government where power is vested in the people, who rule either directly or through freely elected representatives. | A form of government with a monarch at the head, where power is typically inherited. |
+| **Power Structure** | Power is distributed among various branches of government and elected officials. | Power is centralized under a single individual, such as a king or queen. |
+| **Citizen Role**    | Citizens have a direct role in electing leaders and making decisions through voting. | Citizens typically have limited or no role in the selection of leaders or decision-making processes. |
+| **Advantages**      | Promotes equality and freedom; encourages participation and accountability. | Stability and continuity of leadership; can be more efficient in decision-making. |
+| **Disadvantages**   | Can lead to gridlock and inefficiency; risk of majority rule suppressing minority rights. | Risk of autocratic rule; less accountability and potential for abuse of power. |
+| **Examples**        | United States, India, Germany | United Kingdom (constitutional monarchy), Saudi Arabia (absolute monarchy) |
+
+### Step 4: Identify Points of Comparison
+After filling out the table, look for patterns, trends, or interesting contrasts in the information you've collected. These will form the basis of your comparison points in the essay.
+
 ## 2/20
 ### Comparison and contrast: Advanced level!
 #### Compare and constrast two genres of writing
