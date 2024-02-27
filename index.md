@@ -18,10 +18,10 @@ If you're comparing two historical figures, your table might look like this:
 
 | **Category** | **Person 1** | **Person 2** |
 |--------------|--------------|--------------|
-| Early Life   | - Born in... | - Born in... |
-| Achievements | - Won Nobel Prize | - Discovered... |
-| Challenges   | - Faced opposition... | - Struggled with... |
-| Legacy       | - Remembered for... | - Known for... |
+| Early Life   | Born in... | Born in... |
+| Achievements | Won Nobel Prize | Discovered... |
+| Challenges   | Faced opposition... | Struggled with... |
+| Legacy       | Remembered for... | Known for... |
 
 If you're comparing two different forms of government: Democracy and Monarchy:
 
