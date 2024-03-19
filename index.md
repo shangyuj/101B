@@ -13,13 +13,13 @@ A cause-effect essay can do one of two things:
 See PowerPoint slides in class
 ### Activity: Mapping Cause-Effect Relationships 
 - Mapping
- - Get into groups of 3 to 4 people
- - Read the argument
- - Identify the causes and effects in this argument
- - Together, discuss the logical cause-effect relationships in this argument
- - Together, draw a map of the argument
+  - Get into groups of 3 to 4 people
+  - Read the argument
+  - Identify the causes and effects in this argument
+  - Together, discuss the logical cause-effect relationships in this argument
+  - Together, draw a map of the argument
 - Present
- - One group member will come up to draw the map/diagram and explain the logical relationships
+  - One group member will come up to draw the map/diagram and explain the logical relationships
 
 ## 3/12 & 3/14
 ### Spring Break
