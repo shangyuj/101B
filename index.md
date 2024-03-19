@@ -9,10 +9,17 @@ We all understand cause-effect relationships; for example, lightning can cause f
 A cause-effect essay can do one of two things:  
 - It can analyze the ways in which one or more effects result from a particular cause. (Focus-on-Effects Method)
 - It can analyze the ways in which one or more causes lead to a particular effect. (Focus-on-Causes Method)
-  
-In other words, your essay may focus more on the effects of a cause or more on the causes of one effect. Either approach provides a useful means of discussing the possible relationship between the two events. It is not a good idea to mix several causes and several effects in an essay because your focus may become unclear.
-  
-In cause-effect essays, it is easy to suggest that because one event preceded another event, the former event caused the latter. Simply because one event follows another one sequentially does not mean that the two actions are related. For example, people often complain that as soon as they finish washing their car, it starts to rain. Obviously, washing a car does not cause rain. Writers need to be sure that the causes and effects they describe are logically connected.
+### Activity: Evaluating Causes/Effects
+See PowerPoint slides in class
+### Activity: Mapping Cause-Effect Relationships 
+- Mapping
+ - Get into groups of 3 to 4 people
+ - Read the argument
+ - Identify the causes and effects in this argument
+ - Together, discuss the logical cause-effect relationships in this argument
+ - Together, draw a map of the argument
+- Present
+ - One group member will come up to draw the map/diagram and explain the logical relationships
 
 ## 3/12 & 3/14
 ### Spring Break
