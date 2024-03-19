@@ -12,7 +12,7 @@ A cause-effect essay can do one of two things:
 ### Activity: Evaluating Causes/Effects
 See PowerPoint slides in class
 ### Activity: Mapping Cause-Effect Relationships 
-- Mapping
+- Map
   - Get into groups of 3 to 4 people
   - Read the argument
   - Identify the causes and effects in this argument
