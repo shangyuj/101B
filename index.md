@@ -1,5 +1,22 @@
 # English 101B
 
+# 3/19
+### New Unit Introduction: Cause-Effect Essay
+For the third Major Assignment, you will write an essay of around 500 words to explore the **causes and effects** of a particular event, situation, or phenomenon.
+#### What Is a Cause-Effect Essay? (adapted from National Geographic Learning)
+We all understand cause-effect relationships; for example, lightning can cause fire. As a student you know that if you stay up late the night before a test to watch a movie and do not study, you may not perform well on the test the following day. A cause-effect essay tells how one event (the cause) leads to another event (the effect).
+  
+A cause-effect essay can do one of two things:  
+- It can analyze the ways in which one or more effects result from a particular cause. (Focus-on-Effects Method)
+- It can analyze the ways in which one or more causes lead to a particular effect. (Focus-on-Causes Method)
+  
+In other words, your essay may focus more on the effects of a cause or more on the causes of one effect. Either approach provides a useful means of discussing the possible relationship between the two events. It is not a good idea to mix several causes and several effects in an essay because your focus may become unclear.
+  
+In cause-effect essays, it is easy to suggest that because one event preceded another event, the former event caused the latter. Simply because one event follows another one sequentially does not mean that the two actions are related. For example, people often complain that as soon as they finish washing their car, it starts to rain. Obviously, washing a car does not cause rain. Writers need to be sure that the causes and effects they describe are logically connected.
+
+## 3/12 & 3/14
+### Spring Break
+
 ## 3/5 & 3/7
 ### Peer review
 We will have peer review on both Tuesday and Thursday; you only need to come to **one** of the two days. 
