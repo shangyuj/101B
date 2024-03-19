@@ -21,7 +21,7 @@ See PowerPoint slides in class
 - Present
   - One group member will come up to draw the map/diagram and explain the logical relationships
 
-**Map this argument:**
+**Map this argument:**  
 ① In surveys Mason City residents rank water sports (swimming, boating, and fishing) among their favorite recreational activities. ② The Mason River flowing through the city is rarely used for these pursuits, however, and ③ the city park department devotes little of its budget to maintaining riverside recreational facilities. ④ For years there have been complaints from residents about the quality of the river’s water and the river’s smell. ⑤ In response, the state has recently announced plans to clean up Mason River. ⑥ Use of the river for water sports is, therefore, sure to increase. ⑦ The city government should for that reason devote more money in this year’s budget to riverside recreational facilities.
 
 ## 3/12 & 3/14
