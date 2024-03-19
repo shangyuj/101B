@@ -9,6 +9,7 @@ We all understand cause-effect relationships; for example, lightning can cause f
 A cause-effect essay can do one of two things:  
 - It can analyze the ways in which one or more effects result from a particular cause. (Focus-on-Effects Method)
 - It can analyze the ways in which one or more causes lead to a particular effect. (Focus-on-Causes Method)
+  
 ### Activity: Evaluating Causes/Effects
 See PowerPoint slides in class
 ### Activity: Mapping Cause-Effect Relationships 
