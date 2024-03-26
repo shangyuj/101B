@@ -1,5 +1,36 @@
 # English 101B
 
+## 3/26
+### Discussion questions after reading [*Generation Overshare*](https://www.austinchronicle.com/screens/2009-03-06/751524/)  
+1. How do you navigate the balance between online and offline interactions in your own life?  
+2. In what ways has the internet changed how you perceive your own identity?  
+3. How has the concept of community evolved with the advent of online social platforms?  
+4. Do you agree with the idea that "transparency is the new privacy"? Why or why not?  
+5. How might the evolution of digital interaction shape the societal norms of privacy and community in the future?  
+  
+### Identify causes and effects
+Identify the cause(s) and effect(s) in what you just discussed with your peers.
+  
+### Practice using cause-effect expressions
+Connect the causes and effects you just identified by putting them in complete sentences. Some expressions you can use include:  
+- Due to
+- Because of
+- Owing to
+- As a result of
+- Consequently
+- Therefore
+- Thus
+- Hence
+- As a consequence
+- Thereby
+- Accordingly
+- For this reason
+
+Example:
+- Cause: Rise of social media
+- Effect: Decrease of attention span
+- Sentence: The rise of social media **has led to** an increase of people's consumption of short-form, easy-to-digest content. **As a result of** this habit, our attention span has been decreasing.
+
 # 3/19
 ### New Unit Introduction: Cause-Effect Essay
 For the third Major Assignment, you will write an essay of around 500 words to explore the **causes and effects** of a particular event, situation, or phenomenon.
