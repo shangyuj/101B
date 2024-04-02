@@ -3,9 +3,6 @@
 ## 4/2
 ### Experimenting with Fallacies 
 
-## 10/19
-### Common Fallacies in Reasoning
-
 1.  **Scare tactics**
     - A strategy intended to manipulate public opinion
     about a particular issue by arousing fear or alarm.  
@@ -87,6 +84,11 @@
     changing - it's natural." A: "It is morally wrong to cheat on your
     spouse, why on earth would you have done that?" B: "But what is
     morality exactly?")
+
+### Learning Activity - Fallacy Charades!
+- Get into groups of 2 with your classmates.
+- Each group will receive a fallacy flashcard. Without naming the fallacy on your flashcard, explain or act out the fallacy to the class.
+- The rest of the class will identify the fallacy.
 
 ## 3/26
 ### Discussion questions after reading [*Generation Overshare*](https://www.austinchronicle.com/screens/2009-03-06/751524/)  
