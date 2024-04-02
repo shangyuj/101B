@@ -46,34 +46,34 @@
     to read this book by Freud. Everyone knows he used cocaine.")
 
 11.  **Hasty generalization**  
-    - An inference drawn from insufficient
+     - An inference drawn from insufficient
     evidence  
-    - (Example: "Because my Fiat broke down, all Fiats must be
+     - (Example: "Because my Fiat broke down, all Fiats must be
     junk.")
 
 13.  **Equivocations (doublespeak)**  
-    - When someone uses ambiguous
+     - When someone uses ambiguous
     language in order to support or refute an argument; when the
     conclusion of an argument depends on the fact that the word or
     phrase is used, either explicitly or implicitly, in two different
     senses in the argument.  
-    - (Example: "Knowledge is power. Power
+     - (Example: "Knowledge is power. Power
     corrupts. Study hard - be evil!")
 
 15.  **Non sequitur (Latin for "it does not follow")**  
-    - When the
+     - When the
     conclusion does not follow from the premises.  
-    - (Examples: "People
+     - (Examples: "People
     generally like to walk on the beach. Beaches have sand. Therefore,
     having sand floors in homes would be a great idea!" "I got sick
     after eating sushi last week. Pizza is the best.")
 
 17.  **Straw man**  
-    - When someone takes another person's argument or
+     - When someone takes another person's argument or
     point, distorts it or exaggerates it in some kind of extreme way,
     and then attacks the extreme distortion as if that is really the
     claim the first person is making.  
-    - (Example: After Will said that we
+     - (Example: After Will said that we
     should put more money into health and education, Warren responded by
     saying that he was surprised that Will hates our country so much
     that he wants to leave it defenseless by cutting military spending.)
