@@ -9,10 +9,10 @@
 1.  **Scare tactics**
     - A strategy intended to manipulate public opinion
     about a particular issue by arousing fear or alarm.  
-    - Example:
+    - (Example:
     "Goodyear. Because a lot is riding on your tires." \[Visual: a baby
     in a car seat. Outside the car it is raining and the car is slipping
-    unsteadily.\]
+    unsteadily.\])
 
 3.  **Either/or choices (false dilemma)**
     - A conclusion that
@@ -39,20 +39,20 @@
     easy. That's why so many people do.")
 
 9.  **Ad hominem arguments** **(Latin for "to the man")**
-     - Arguments
+    - Arguments
     attack the character of a person rather than the claims he or she
     makes.  
     - (Example: Student: "Hey, Professor Moore, we shouldn't have
     to read this book by Freud. Everyone knows he used cocaine.")
 
 11.  **Hasty generalization**
-     - An inference drawn from insufficient
+    - An inference drawn from insufficient
     evidence  
     - (Example: "Because my Fiat broke down, all Fiats must be
     junk.")
 
 13.  **Equivocations (doublespeak)**
-     - When someone uses ambiguous
+    - When someone uses ambiguous
     language in order to support or refute an argument; when the
     conclusion of an argument depends on the fact that the word or
     phrase is used, either explicitly or implicitly, in two different
@@ -61,7 +61,7 @@
     corrupts. Study hard - be evil!")
 
 15.  **Non sequitur (Latin for "it does not follow")**
-     - When the
+    - When the
     conclusion does not follow from the premises.  
     - (Examples: "People
     generally like to walk on the beach. Beaches have sand. Therefore,
@@ -69,7 +69,7 @@
     after eating sushi last week. Pizza is the best.")
 
 17.  **Straw man**
-     - When someone takes another person's argument or
+    - When someone takes another person's argument or
     point, distorts it or exaggerates it in some kind of extreme way,
     and then attacks the extreme distortion as if that is really the
     claim the first person is making.  
@@ -79,7 +79,7 @@
     that he wants to leave it defenseless by cutting military spending.)
 
 19. **Red herring (misdirection)**
-     - An abrupt change of subject or
+    - An abrupt change of subject or
     introduction of an irrelevant claim to throw readers off the trail.
     A deliberate diversion of attention with the intention of trying to
     abandon the original argument.  
