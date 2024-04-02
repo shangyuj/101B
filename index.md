@@ -21,7 +21,7 @@
     - (Examples: "We can either stop using cars or destroy the
     earth." "You're either for the war or against the troops.")
 
-5.  **Slippery slope**
+5.  **Slippery slope**  
     - In a slippery slope argument, a course of
     action is rejected because, with little or no evidence, one insists
     that it will lead to a chain reaction resulting in an undesirable
@@ -32,26 +32,26 @@
     minutes, tomorrow late for an hour, and then someday you will simply
     cease to show up.")
 
-7.  **Bandwagon appeals**
+7.  **Bandwagon appeals**  
     - Urge people to follow the same path everyone
     else is taking.  
     - (Example: iPhone 5 Advertisement: "Loving it is
     easy. That's why so many people do.")
 
-9.  **Ad hominem arguments** **(Latin for "to the man")**
+9.  **Ad hominem arguments** **(Latin for "to the man")**  
     - Arguments
     attack the character of a person rather than the claims he or she
     makes.  
     - (Example: Student: "Hey, Professor Moore, we shouldn't have
     to read this book by Freud. Everyone knows he used cocaine.")
 
-11.  **Hasty generalization**
+11.  **Hasty generalization**  
     - An inference drawn from insufficient
     evidence  
     - (Example: "Because my Fiat broke down, all Fiats must be
     junk.")
 
-13.  **Equivocations (doublespeak)**
+13.  **Equivocations (doublespeak)**  
     - When someone uses ambiguous
     language in order to support or refute an argument; when the
     conclusion of an argument depends on the fact that the word or
@@ -60,7 +60,7 @@
     - (Example: "Knowledge is power. Power
     corrupts. Study hard - be evil!")
 
-15.  **Non sequitur (Latin for "it does not follow")**
+15.  **Non sequitur (Latin for "it does not follow")**  
     - When the
     conclusion does not follow from the premises.  
     - (Examples: "People
@@ -68,7 +68,7 @@
     having sand floors in homes would be a great idea!" "I got sick
     after eating sushi last week. Pizza is the best.")
 
-17.  **Straw man**
+17.  **Straw man**  
     - When someone takes another person's argument or
     point, distorts it or exaggerates it in some kind of extreme way,
     and then attacks the extreme distortion as if that is really the
