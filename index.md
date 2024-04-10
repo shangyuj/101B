@@ -1,5 +1,8 @@
 # English 101B
 
+## 4/16
+Please complete this [survey](https://iastate.qualtrics.com/jfe/form/SV_3x6dXutbOLoOLeC).
+
 ## 4/2
 ### Experimenting with Fallacies 
 
