@@ -2,6 +2,7 @@
 
 ## 4/16
 Please complete this [survey](https://iastate.qualtrics.com/jfe/form/SV_3x6dXutbOLoOLeC).
+- This survey is administered by the director of ENGL 101 courses.
 - The survey is **completely anonymous**. We are not collecting any information (e.g., IP address, submission time) that can be used to identify individuals.
 - Candid student input will be invaluable for helping us shape our teaching approach and policies regarding generative AI tools.
 
