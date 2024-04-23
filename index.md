@@ -1,6 +1,6 @@
 # English 101B
 
-## 4/18
+## 4/23
 ### Understanding complexities in research studies: Could they be wrong?
 #### Skim the following research report published in *Science* (linked below). Focus on the research methods of this study. How would you evaluate the findings of the study after knowing how the study was conducted? What are some complexities and nuances the researchers failed to account for?
 [Cohn, Alain, et al. “Civic Honesty around the Globe.” *Science*, vol. 365, no. 6448, July 2019, pp. 70–73.](https://www.science.org/doi/epdf/10.1126/science.aau8712)  
